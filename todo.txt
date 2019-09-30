@@ -1,0 +1,8 @@
+
+add more content to about section
+
+add much content to hobbies section
+
+pick better fonts for text
+
+also want to use js to code an entire minesweeper game, link to this page
